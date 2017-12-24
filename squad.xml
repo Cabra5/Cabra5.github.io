@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<!DOCTYPE squad SYSTEM "Squad.dtd">
+<?xml-stylesheet href="squad.xsl" type="text/xsl"?>
+
+<squad nick="BTG">
+	<name>Bravo Tango Cheesecake</name>
+	<email>N/A</email>
+	<web>N/A</web>
+	<picture>Logo_Cabra_Holiday.paa</picture>
+	<title>N/A</title>
+	
+	<member id="76561198057265072" nick="Cabra5">
+		<name>Cabra</name>
+		<email>N/A</email>
+		<icq>N/A</icq>
+		<remark>Yer Ded</remark>
+	</member>
+
+	<member id="76561198145923989" nick="Ur Dad">
+		<name>Ur Dad</name>
+		<email>N/A</email>
+		<icq>N/A</icq>
+		<remark>Im not ur Dad</remark>
+	</member>
+	
+	<member id="76561197980128714" nick="Tupacaliptic">
+		<name>Tupacaliptic</name>
+		<email>N/A</email>
+		<icq>N/A</icq>
+		<remark>Tha Tupacalypse</remark>
+	</member>
+		
+		
+		
+</squad>
