@@ -35,8 +35,8 @@
 
 
 .custom .triggers{
-    width: 20px;
-    height: 135px;
+    width: 135px;
+    height: 20px;
     display: inline-block;
     background: black;
     position: relative;
@@ -50,7 +50,7 @@
 }
 
 .custom .triggers:after{
-    content: "THROTTLE";
+    content: "YAW";
     display: inline-block;
     position: absolute;
     font-size: 14px;
