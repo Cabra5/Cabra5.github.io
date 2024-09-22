@@ -56,7 +56,7 @@
     font-size: 14px;
     color: #db6946;
     top: -1.5em;
-    right: 80%;
+    right: 0%;
     transform-origin: center;
 }
 
@@ -90,6 +90,6 @@
 }
 
 .custom .stick.right{
-    top: -70px;
+    top: -75px;
     left: 50%;
 }
