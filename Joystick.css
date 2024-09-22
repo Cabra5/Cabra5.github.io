@@ -71,7 +71,7 @@
     color: #db6946;
     top: -1.5em;
     left: 50%;
-    transform: translateX(-50%);
+    transform: translateY(-50%) rotate(-90deg);
 }
 
 
