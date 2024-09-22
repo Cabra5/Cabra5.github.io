@@ -45,7 +45,7 @@
     border: 2px solid #db6946;
     border-radius: 20px;
     background-image: linear-gradient(0deg, transparent 48%, #db6946 49%, #db6946 50%, #db6946 51%, transparent 52%, transparent);
-    right: -95%;
+    right: -90%;
     background-size: calc(100% - 10px) 100%;
     background-repeat: no-repeat;
     background-position: center;
