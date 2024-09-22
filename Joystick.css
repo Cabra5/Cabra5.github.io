@@ -80,7 +80,7 @@
     font-size: 15px;
     color: #db6946;
     top: 50%;
-    right: -5em;
+    right: -3em;
     transform-origin: center;
     transform: translateY(-50%) rotate(-90deg);
 }
@@ -91,6 +91,6 @@
 }
 
 .custom .stick.right{
-    top: -120px;
+    top: 0px;
     left: 50%;
 }
