@@ -23,9 +23,9 @@
     display: inline-block;
     position: relative;
     background: black;
-    border: 2px solid #03b2e1;
+    border: 2px solid #db6946;
     border-radius: 15px;
-    background-image: linear-gradient(0deg, transparent 48%, #002f3b 49%, #002f3b 50%, #002f3b 51%, transparent 52%, transparent), linear-gradient(90deg, transparent 48%, #002f3b 49%, #002f3b 50%, #002f3b 51%, transparent 52%, transparent);
+    background-image: linear-gradient(0deg, transparent 48%, #db6946 49%, #db6946 50%, #db6946 51%, transparent 52%, transparent), linear-gradient(90deg, transparent 48%, #db6946 49%, #db6946 50%, #db6946 51%, transparent 52%, transparent);
     top: calc(42px);
     background-size: calc(100% - 15px) 100%, 100% calc(100% - 15px);
     background-repeat: no-repeat;
@@ -40,9 +40,9 @@
     display: inline-block;
     background: black;
     position: relative;
-    border: 2px solid #03b2e1;
+    border: 2px solid #db6946;
     border-radius: 20px;
-    background-image: linear-gradient(0deg, transparent 48%, #002f3b 49%, #002f3b 50%, #002f3b 51%, transparent 52%, transparent);
+    background-image: linear-gradient(0deg, transparent 48%, #db6946 49%, #db6946 50%, #db6946 51%, transparent 52%, transparent);
     background-size: calc(100% - 10px) 100%;
     background-repeat: no-repeat;
     background-position: center;
@@ -54,7 +54,7 @@
     display: inline-block;
     position: absolute;
     font-size: 14px;
-    color: #03b2e1;
+    color: #db6946;
     top: -1.5em;
     right: 50%;
     transform-origin: center;
@@ -66,7 +66,7 @@
     display: inline-block;
     position: absolute;
     font-size: 15px;
-    color: #03b2e1;
+    color: #db6946;
     top: -1.5em;
     left: 50%;
     transform: translateX(-50%);
@@ -78,7 +78,7 @@
     display: inline-block;
     position: absolute;
     font-size: 15px;
-    color: #03b2e1;
+    color: #db6946;
     top: 50%;
     right: -5em;
     transform-origin: center;
@@ -91,6 +91,6 @@
 }
 
 .custom .stick.right{
-    top: 120px;
+    top: -120px;
     left: 50%;
 }
