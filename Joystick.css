@@ -90,6 +90,6 @@
 }
 
 .custom .stick.right{
-    top: -72.5px;
+    top: calc(-55px);
     left: 50%;
 }
